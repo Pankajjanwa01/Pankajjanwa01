@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-👨‍💻 About Me<br><br>🔭 I’m currently working on:<br>Full-stack web applications and machine learning projects, including a UPI Fraud Detection System.<br><br>👯 I’m looking to collaborate on:<br>Backend, full-stack, and Python-based projects involving APIs, databases, or real-world problem solving.<br><br>🤝 I’m looking for help with:<br>System design, scalable backend architecture, and cloud deployment.<br><br>🌱 I’m currently learning:<br>Advanced Spring Boot, REST API optimization, and system design fundamentals.<br><br>💬 Ask me about:<br>Java, Spring Boot, Python, REST APIs, SQL, and machine learning basics.<br><br>⚡ Fun fact:<br>I enjoy turning complex problems into simple, working solutions through clean code.
+👨‍💻 About Me<br><br>🔭👨‍💻 Software Development Engineer with 6+ months of experience in Java-based enterprise application development, REST API development ☁️, and scalable backend systems ⚙️. Experienced in developing secure 🔒 and high-performance 🚀 applications using Java ☕, Spring Boot 🌱, Spring MVC, Hibernate 🛢️, JDBC, MySQL 🗄️, and web technologies 🌐.
 
 
 # 💻 Tech Stack:
